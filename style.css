@@ -1,10 +1,12 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #f1f1f1;
     display: flex;
     justify-content: center;
     align-items: center;
     height: 100vh;
     margin: 0;
+
 }
 
 form {
@@ -33,7 +35,7 @@ button {
     padding: 10px;
     background-color: black;
     color: white;
-    border-radius: 5px;
+    border-radius: 8px;
     font-weight: bold;
     font-size: 14px;
     margin-top: 10px;
@@ -49,9 +51,9 @@ button {
 
 .form-container {
     background-color: white;
-    border-radius: 10px;
+    border-radius: 16px;
     width: 600px;
-    padding: 50px;
+    padding: 70px;
 }
 
 .form-group {
